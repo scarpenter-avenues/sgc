@@ -4,11 +4,11 @@ Task List
 #### Short Term
 Transfer from other docs and set-up system
 
-[ ] Evidence Template
-[ ] Learning Plan Template
-    - Should Learning Plans one large file or divided among several files
-[ ] Create current Enery Unit (transfer from drive)
-[ ] Create Goals page for each unit
+    [ ] Evidence Template
+    [ ] Learning Plan Template
+        [ ] Should Learning Plans one large file or divided among several files
+    [ ] Create current Enery Unit (transfer from drive)
+    [ ] Create Goals page for each unit
     [ ] Paper or Plastic?: Structure and Properties of Matter
     [ ] Communication Systems: Waves
     [ ] Engineering: Mechanical
@@ -21,11 +21,12 @@ Transfer from other docs and set-up system
     [ ] Engineering: Interdisiplinary
 
 #### Medium Term
-[ ] Develop performance tasks for end of each year
-    [ ] Analyze coverage and progression
-[ ] Develop performance tasks for end of each unit
-    [ ] Analyze coverage, progression, and spacing
-[ ] Develop Year 1 Units
-    [ ] Paper or Plastic?: Structure and Properties of Matter
-    [ ] Communication Systems: Waves
-    [ ] Engineering: Mechanical
+
+    [ ] Develop performance tasks for end of each year
+        [ ] Analyze coverage and progression
+    [ ] Develop performance tasks for end of each unit
+        [ ] Analyze coverage, progression, and spacing
+    [ ] Develop Year 1 Units
+        [ ] Paper or Plastic?: Structure and Properties of Matter
+        [ ] Communication Systems: Waves
+        [ ] Engineering: Mechanical
