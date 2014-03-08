@@ -1,4 +1,4 @@
-##Science for Global Citizens
+Science for Global Citizens
 -----------------------------
 
 This repository is a test for using GitHub to collaboratively develop a high school curriculum.
